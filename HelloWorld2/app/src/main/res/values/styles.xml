@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyButton">
+        <item name="android:textColor">#E0FA19</item>
+    </style>
+    <style name="MyButtonThree">
+        <item name="android:textColor">#F02200</item>
+    </style>
+    <style name="MyString">
+        <item name="android:textColor">#00F53D</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>
